@@ -23,3 +23,45 @@
     border: none;
     cursor: pointer;
 }
+
+.cat1{
+    background-color: orange;
+}
+
+.cat2{
+    background-color: rgb(241, 74, 241);
+}
+
+.cat3{
+    background-color: rgb(0, 152, 190);
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.categories img{
+    width: 120px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+    margin-bottom: 30px;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+}
